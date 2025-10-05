@@ -1,7 +1,7 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
+# NAME: Alex Dervenis
+# DATE: 10/5/2025
 # BRIEF DESCRIPTION:  
 
 
@@ -15,8 +15,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
-
+q = input('Would you like a compliment?')
+if q == 'yes':
+    print('You have wonderful eyes.')
+    print('Thank you for playing.')
+else:
+    print('Thank you for playing')
 
 
 
@@ -67,12 +71,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+6
 
 
 2. What was the hardest part of this lab?
 
-
+multiple if statements
 
 
 
